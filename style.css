@@ -3,6 +3,15 @@ body {
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 50px;
     font-style: italic;
+}
+
+h2{
+    font-size: 35px;
+    color: blue
+}
+
+h3 {
+    color: purple
 }
